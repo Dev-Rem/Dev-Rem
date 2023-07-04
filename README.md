@@ -7,6 +7,6 @@
 - 💬 Ask me about Django, and React and would answer to the best of my knowledge.
 - 📫 How to reach me: oluwaremu1407@gmail.com is my personal email.
 - 😄 I believe in the process and I really enjoy the process.
-- ⚡ Fun fact: I love swimming not a very good one but i do love swimming.
+- ⚡ Fun fact: I love swimming not a very good swimmer but I do love swimming.
 
 
