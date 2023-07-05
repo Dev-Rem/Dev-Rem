@@ -6,7 +6,6 @@ Having more than 3 years of experience in programming both professionally and re
 I refuse to be limited so I love to try stuff out what's the worst that can happen LOL.
 Luckily I have the ability to learn fast and sit at a table for hours. 
 
-- 🔭 I’m currently working on a web app that uses openAI to generate a cover letter just by providing a job title, description, and resume.
 - 🌱 I’m currently learning the Python web framework Flask.
 - 👯 I’m looking to collaborate on building software that pushes the world to IoT.
 - 💬 Ask me about Django, and React and would answer to the best of my knowledge.
