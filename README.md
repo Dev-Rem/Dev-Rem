@@ -6,7 +6,7 @@ Having more than 3 years of experience in programming both professionally and re
 I refuse to be limited so I love to try stuff out what's the worst that can happen LOL.
 Luckily I have the ability to learn fast and sit at a table for hours. 
 
-- 🌱 I’m currently learning the Python web framework Flask.
+- 🌱 I’m currently learning the JavaScript web framework NextJS.
 - 👯 I’m looking to collaborate on building software that pushes the world to IoT.
 - 💬 Ask me about Django, and React and would answer to the best of my knowledge.
 - 📫 How to reach me: oluwaremu1407@gmail.com is my personal email.
